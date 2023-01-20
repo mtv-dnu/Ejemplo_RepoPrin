@@ -1,0 +1,3 @@
+[submodule "Ejemplo_RepoSubmod"]
+	path = Ejemplo_RepoSubmod
+	url = https://github.com/mtv-dnu/Ejemplo_RepoSubmod
